@@ -264,5 +264,9 @@ END
 ```
 
  
-## Results of simulation :
+## Output of simulation :
+![kin 3 ](https://user-images.githubusercontent.com/94154854/176836220-dc0a7a64-a27e-4247-830c-bec96bd5f2c7.png)
+
+# Results :
+To simulate the painting environment for a serial manipluator is done successfully using robo DK software.
  
